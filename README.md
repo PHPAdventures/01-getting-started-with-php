@@ -12,6 +12,16 @@ For more information on our meetup, please visit our website:
 
 ----------------------------------------------------------
 
+To run this project, run the following command:
+
+```BASH
+php -S localhost:8080 -t ./public
+```
+
+Once the server is running, [visit it in your browser](http://localhost:8080)!
+
+----------------------------------------------------------
+
 ## Getting Started with PHP
 
 * What is PHP?
