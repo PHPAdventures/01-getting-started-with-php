@@ -1,6 +1,6 @@
 # Getting Started with PHP
 
-This topic was covered on 2022-05-12 @ 06:00 PM (Thursday)
+This topic was covered on 2022-05-12 @ 06:00 PM (Thursday); [you can view it on YouTube by clicking here](https://www.youtube.com/watch?v=bFy7R53F0KM).
 
 For more information on our meetup, please visit our website:
 [https://phpadventures.com](https://phpadventures.com)
